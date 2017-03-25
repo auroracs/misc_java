@@ -6,5 +6,7 @@
 	<classpathentry kind="lib" path="C:/Users/Jim/workspace_jim_neon/myJavaProject/lib/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Jim/workspace_jim_neon/myJavaProject/lib/commons-io-2.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Jim/workspace_jim_neon/myJavaProject/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jim/workspace_jim_neon/myJavaProject/lib/apache-commons-net.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jim/workspace_jim_neon/myJavaProject/lib/jsch-0.1.51.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
